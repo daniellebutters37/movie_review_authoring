@@ -1,0 +1,25 @@
+{
+  "name": "movie_review_authoring",
+  "version": "1.0.0",
+  "description": "movie_review_authoring",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniellebutters37/movie_review_authoring.git"
+  },
+  "author": "Danielle Butters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daniellebutters37/movie_review/issues"
+  },
+  "homepage": "https://github.com/daniellebutters37/movie_review#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.0.2",
+    "i": "^0.3.6"
+  }
+}
